@@ -1,18 +1,10 @@
 # ![Rails Example App](media/realworld.png)
 
-> Official NodeJS codebase that adheres to the [RealWorld](https://gothinkster.github.io/realworld/docs/specs/backend-specs/introduction) API spec.
 
-This repo is functionality complete.
-
-# Deploy to Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 # Getting started
 
-### Clone the repository
 
-run `git clone https://github.com/gothinkster/node-express-prisma-v1-official-app.git`
 
 ### Install the dependancies
 
